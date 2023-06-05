@@ -24,7 +24,7 @@ Based on the following flow, creating a JMX file with positive test cases:
     [Note:Before runing the following command, delete if there is any already Demo-Transaction-API-log.csv file and Reports folder in the bin]
     
 ## Command Prompt Screenshot:  
-    ![Screenshot 2023-06-06 052122](https://github.com/suptimusfika/demo-transaction-api-jmeter/assets/48064134/ee58dd1a-0e33-410f-8cb8-1f861b78b37c)
+   ![Screenshot 2023-06-06 052122](https://github.com/suptimusfika/demo-transaction-api-jmeter/assets/48064134/045a1fec-598c-4fc2-a456-1bc507631fea)
 
 ## Html Report
 ![Apache-JMeter-Dashboard](https://github.com/suptimusfika/demo-transaction-api-jmeter/assets/48064134/0bdcadb1-ed7f-4c03-8b7d-3abce19eff0e)
